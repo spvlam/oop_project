@@ -1,0 +1,51 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Detail",
+            "request": "launch",
+            "mainClass": "view.Detail",
+            "projectName": "oop_Project_ecf18d62",
+            "vmArgs": "--module-path \"C:\\Users\\LAMNV\\Downloads\\openjfx-20.0.1_windows-x64_bin-sdk (1)\\javafx-sdk-20.0.1\\lib\" --add-modules=javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "oop_Project_ecf18d62"
+        },
+        {
+            "type": "java",
+            "name": "getDiTichHanoi",
+            "request": "launch",
+            "mainClass": "src.di_tich_lich_su.getDiTichHanoi",
+            "projectName": "oop_Project_ecf18d62"
+        },
+        {
+            "type": "java",
+            "name": "getDitich",
+            "request": "launch",
+            "mainClass": "src.vietnam.getDitich",
+            "projectName": "oop_Project_ecf18d62"
+        },
+        {
+            "type": "java",
+            "name": "View",
+            "request": "launch",
+            "mainClass": "view.View",
+            "projectName": "oop_Project_ecf18d62",
+            "vmArgs": "--module-path \"C:\\Users\\LAMNV\\Downloads\\openjfx-20.0.1_windows-x64_bin-sdk (1)\\javafx-sdk-20.0.1\\lib\" --add-modules=javafx.controls,javafx.fxml"
+        }
+    ]
+}
